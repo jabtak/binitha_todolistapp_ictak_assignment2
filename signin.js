@@ -14,6 +14,6 @@ function signIn(nav){
 
 function navigate(){
     debugger;
-    window.location = "index.html";
+    window.location = "login.html";
      
 }
