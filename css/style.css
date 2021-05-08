@@ -1,0 +1,96 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar-brand img{
+    float:right;
+}
+
+header{
+    height: 5em;
+}
+
+.navbar{
+    background-color:green;
+    border-bottom: 10px;
+    
+}
+
+.navbar-nav a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight:bolder;
+    padding: 6px;
+    color:skyblue;
+
+}
+
+.form-inline{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.navbar-nav a:hover{
+    color:indigo;
+    transition: 0.5s ease-in-out;
+}
+
+.navbar .navbar-toggler{
+    border: 1px solid hotpink;
+}
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: black;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 23px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  .sign-in{
+    background-color: gray;
+     height: 1000px;
+     padding-top: 200px;
+  }
+
+  .container{
+      background-color: grey;
+  }
+
+
+  .check-box{
+    margin-left: 20px;
+    height: 20px;
+    width: 20px;
+  }
+
+  .checkmark{
+    font-size: 29px;
+    padding-left: 15px;
+    color: aliceblue;
+  }
+  
+ 
+  
